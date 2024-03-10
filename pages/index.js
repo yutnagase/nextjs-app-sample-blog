@@ -31,7 +31,8 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <section className={utilStyle.headingMd}>
-        <p>This page was created with Next.私の名前は長瀬です。</p>
+        <p>This page was created with Next.修正してみました！</p>
+        <p>修正してみました。如何でしょうか</p>
       </section>
       <section>
         <h2>エンジニアのブログ</h2>
